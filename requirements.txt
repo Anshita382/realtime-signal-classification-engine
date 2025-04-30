@@ -1,0 +1,7 @@
+pika
+loguru
+matplotlib
+seaborn
+pandas
+scikit-learn
+pytest

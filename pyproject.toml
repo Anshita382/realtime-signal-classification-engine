@@ -1,0 +1,18 @@
+[project]
+name = "edad"
+version = "0.1.0"
+description = "UFO Sightings Analyzer for CIS 6930 Project 3"
+readme = "README.MD"
+requires-python = ">=3.9"
+dependencies = [
+    "pika",
+    "loguru",
+    "matplotlib",
+    "seaborn",
+    "pandas",
+    "scikit-learn",
+    "pytest"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,5 @@
+2025-04-29 21:49:10.360 | INFO     | edad.consumer:consume_messages:18 - [LOCAL TEST] Message msg-001 classified as alien 👽
+2025-04-29 21:49:10.360 | INFO     | edad.consumer:consume_messages:18 - [LOCAL TEST] Message msg-002 classified as human
+2025-04-29 21:49:10.360 | INFO     | edad.consumer:consume_messages:18 - [LOCAL TEST] Message msg-003 classified as alien 👽
+2025-04-29 21:49:10.360 | INFO     | edad.consumer:consume_messages:18 - [LOCAL TEST] Message msg-004 classified as alien 👽
+2025-04-29 21:49:10.360 | INFO     | edad.consumer:consume_messages:18 - [LOCAL TEST] Message msg-005 classified as alien 👽
