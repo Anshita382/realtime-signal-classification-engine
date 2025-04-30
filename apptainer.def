@@ -1,0 +1,15 @@
+Bootstrap: docker
+From: python:3.10-slim
+
+%post
+    apt-get update && apt-get install -y git build-essential
+    pip install pika loguru matplotlib pandas seaborn scikit-learn
+
+%files
+    . /app
+
+%environment
+    export PYTHONPATH=/app
+
+%runscript
+    exec python /app/main.py "$@"
