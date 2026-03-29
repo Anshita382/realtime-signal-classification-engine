@@ -123,6 +123,5 @@ cis6930sp25-project3/
 **Anshita Rayalla**  
 MS in Computer Science  
 University of Florida (Fall 2024 – Spring 2026)  
-Email: anshita.rayalla@ufl.edu
 
 ```
